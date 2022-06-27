@@ -1,0 +1,92 @@
+Model,True Name,Name of a Plant,%
+DenseNet201 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Alauna Clair-obscur_,75.11
+DenseNet201 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Destiny_s Teachers_,15.17
+DenseNet201 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Melody Harmony_,7.54
+DenseNet201 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _My Love_,1.62
+DenseNet201 model for Dahlia,Dahlia _Alauna Clair-obscur_,"Dahlia _Honka Dark_ (Honka Black, Dahlia _Verrone’s Obsidian_)",0.43
+Xception model for Dahlia,Dahlia _Alauna Clair-obscur_,"Dahlia _Honka Dark_ (Honka Black, Dahlia _Verrone’s Obsidian_)",34.49
+Xception model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Melody Harmony_,22.6
+Xception model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _My Love_,18.04
+Xception model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Alauna Clair-obscur_,12.91
+Xception model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Destiny_s Teachers_,9.63
+InceptionResNetV2 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Melody Harmony_,30.55
+InceptionResNetV2 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _My Love_,22.46
+InceptionResNetV2 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Bishop of York_,15.21
+InceptionResNetV2 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Alauna Clair-obscur_,11.98
+InceptionResNetV2 model for Dahlia,Dahlia _Alauna Clair-obscur_,"Dahlia _Honka Dark_ (Honka Black, Dahlia _Verrone’s Obsidian_)",8.83
+EfficientNetB7 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Tam Tam_,2.53
+EfficientNetB7 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Bishop of York_,2.35
+EfficientNetB7 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Bishop of Dover_,2.17
+EfficientNetB7 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Arabian Night_,2.1
+EfficientNetB7 model for Dahlia,Dahlia _Alauna Clair-obscur_,Dahlia _Chat Noir_,2.04
+DenseNet201 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus niger (Christmas Rose),38.66
+DenseNet201 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Yellow Lady_,30.69
+DenseNet201 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Molly_s White_,10.16
+DenseNet201 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Frostkiss Glenda_s Gloss_,9.55
+DenseNet201 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Penny_s Pink_,6.73
+Xception model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Penny_s Pink_,30.21
+Xception model for Helleborus,Helleborus _Penny_s Pink_,Helleborus niger (Christmas Rose),27.14
+Xception model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Molly_s White_,26.11
+Xception model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Frostkiss Glenda_s Gloss_,11.66
+Xception model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Walhelivor (Ivory Prince)_,2.92
+InceptionResNetV2 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Molly_s White_,54.93
+InceptionResNetV2 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus niger (Christmas Rose),16.79
+InceptionResNetV2 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Walhelivor (Ivory Prince)_,10.48
+InceptionResNetV2 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Frostkiss Glenda_s Gloss_,8.1
+InceptionResNetV2 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Penny_s Pink_,4.95
+EfficientNetB7 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Molly_s White_,23.45
+EfficientNetB7 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Yellow Lady_,22.0
+EfficientNetB7 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Walhelivor (Ivory Prince)_,12.11
+EfficientNetB7 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus niger (Christmas Rose),11.96
+EfficientNetB7 model for Helleborus,Helleborus _Penny_s Pink_,Helleborus _Anna_s Red_,11.62
+DenseNet201 model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Frostkiss Glenda_s Gloss_,23.46
+DenseNet201 model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Molly_s White_,17.6
+DenseNet201 model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Yellow Lady_,12.19
+DenseNet201 model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Walhelivor (Ivory Prince)_,10.99
+DenseNet201 model for cultivar,Helleborus _Penny_s Pink_,Helleborus niger (Christmas Rose),8.38
+DenseNet201 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Alauna Clair-obscur_,42.13
+DenseNet201 model for cultivar,Dahlia _Alauna Clair-obscur_,"Dahlia _Honka Dark_ (Honka Black, Dahlia _Verrone’s Obsidian_)",28.04
+DenseNet201 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Destiny_s Teachers_,11.16
+DenseNet201 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Café au Lait_,3.57
+DenseNet201 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Melody Harmony_,3.17
+Xception model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Penny_s Pink_,19.78
+Xception model for cultivar,Helleborus _Penny_s Pink_,Helleborus niger (Christmas Rose),17.99
+Xception model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Anna_s Red_,12.68
+Xception model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Walhelivor (Ivory Prince)_,11.48
+Xception model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Frostkiss Glenda_s Gloss_,11.43
+InceptionResNetV2 model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Molly_s White_,24.3
+InceptionResNetV2 model for cultivar,Helleborus _Penny_s Pink_,Helleborus niger (Christmas Rose),22.26
+InceptionResNetV2 model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Penny_s Pink_,11.23
+InceptionResNetV2 model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Frostkiss Glenda_s Gloss_,10.92
+InceptionResNetV2 model for cultivar,Helleborus _Penny_s Pink_,Helleborus _Walhelivor (Ivory Prince)_,9.89
+InceptionResNetV2 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Melody Harmony_,69.71
+InceptionResNetV2 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Destiny_s Teachers_,12.63
+InceptionResNetV2 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _My Love_,6.6
+InceptionResNetV2 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Alauna Clair-obscur_,4.8
+InceptionResNetV2 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Bishop of York_,3.26
+EfficientNetB7 model for cultivar,Helleborus _Penny_s Pink_,Dahlia _Tam Tam_,2.47
+EfficientNetB7 model for cultivar,Helleborus _Penny_s Pink_,Dahlia _Gallery Art Deco_,1.94
+EfficientNetB7 model for cultivar,Helleborus _Penny_s Pink_,Dahlia _Fashion Monger_,1.92
+EfficientNetB7 model for cultivar,Helleborus _Penny_s Pink_,Dahlia _Pablo_,1.84
+EfficientNetB7 model for cultivar,Helleborus _Penny_s Pink_,Dahlia _Seattle_,1.81
+EfficientNetB7 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Tam Tam_,2.47
+EfficientNetB7 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Gallery Art Deco_,1.94
+EfficientNetB7 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Fashion Monger_,1.92
+EfficientNetB7 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Pablo_,1.84
+EfficientNetB7 model for cultivar,Dahlia _Alauna Clair-obscur_,Dahlia _Seattle_,1.81
+DenseNet201 model for genus,Helleborus _Penny_s Pink_,Helleborus,99.94
+DenseNet201 model for genus,Helleborus _Penny_s Pink_,Dahlia,0.06
+DenseNet201 model for genus,Dahlia _Alauna Clair-obscur_,Dahlia,100.0
+DenseNet201 model for genus,Dahlia _Alauna Clair-obscur_,Helleborus,0.0
+Xception model for genus,Helleborus _Penny_s Pink_,Helleborus,99.46
+Xception model for genus,Helleborus _Penny_s Pink_,Dahlia,0.54
+Xception model for genus,Dahlia _Alauna Clair-obscur_,Dahlia,100.0
+Xception model for genus,Dahlia _Alauna Clair-obscur_,Helleborus,0.0
+InceptionResNetV2 model for genus,Helleborus _Penny_s Pink_,Helleborus,99.92
+InceptionResNetV2 model for genus,Helleborus _Penny_s Pink_,Dahlia,0.08
+InceptionResNetV2 model for genus,Dahlia _Alauna Clair-obscur_,Dahlia,99.99
+InceptionResNetV2 model for genus,Dahlia _Alauna Clair-obscur_,Helleborus,0.01
+EfficientNetB7 model for genus,Helleborus _Penny_s Pink_,Dahlia,89.32
+EfficientNetB7 model for genus,Helleborus _Penny_s Pink_,Helleborus,10.68
+EfficientNetB7 model for genus,Dahlia _Alauna Clair-obscur_,Dahlia,89.31
+EfficientNetB7 model for genus,Dahlia _Alauna Clair-obscur_,Helleborus,10.69
